@@ -11,4 +11,16 @@ Secondly, University of Oxford ranks 1st in research among all the universties i
 
 To deep dive into more about how universities have scored in each of the metric. I ploted radar chart to to understand scores across research, teaching, citations, industry income and international outlook of universites in 2023. It was found that 8 of 10 universites which are in top 10 list have scored below 80 in industry income compared to research and citations. It says that studying in top universties does not always mean that if you have studied from top universities then you will be highest paid individual.
 
-Lastly in conclusion, I analyzed how number of students enrolled to these universities affect the teaching and research rankings of the universities. It was found the UC berkeley had the highest number of students enrolled with highest students to staff ratio among all the universities which is surprising given it is ranked much lower in teaching score.
+Lastly, I analyzed how number of students enrolled to these universities affect the teaching and research rankings of the universities. It was found the UC berkeley had the highest number of students enrolled with highest students to staff ratio among all the universities which can be cause of its low teaching score and high research score respectivaly. 
+
+
+## Thought process behind the behind the story and approch
+
+
+## Liabraies and tools used:
+
+
+## Vizualizations recoding:
+
+
+
