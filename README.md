@@ -1,7 +1,7 @@
 # AngleHack-Monthly-Code-Challange - Data Viz and Storytelling
 A code challenge repo with data visualization and storytelling on world's universities
 
-# Storytelling theme: World's Top Universities and their rankings📊
+# Project Name: World's Top Universities and their Rankings📊
 
 In this project, I have analyzed university rankings data to find how world'd top universities have performe over period of past 5 years. World's top insitutions are traiblazers in terms of cutting edge research and driving change in world to enhance people's lives acrosss the globe. Analyzing university rankings data I found some interesting insights which I would like to articulate here. so let's get started!
 
