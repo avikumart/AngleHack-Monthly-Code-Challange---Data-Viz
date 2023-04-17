@@ -25,9 +25,19 @@ In the given datasets, I choose to analyze past 5 years data (2019-2023) to know
 3. seaborn
 4. plotly
 5. regex
+6. Kaggle Kernel
 
 ## Vizualizations demo:
 
+**List of Visualizations:**
+
+1. Top university ranking over past 5 years
+2. Top university teaching and research scores over a past 5 years 
+3. Radar charts of University and their scores for the year 2023
+4. How many students TOP Universities have had over period of last 5 years
+5. The relation between Teaching and Ranking of the university with number of students
+
+https://user-images.githubusercontent.com/88608935/232463626-8d778e26-8a33-468e-93d8-bf17b03b47e4.mp4
 
 
 
