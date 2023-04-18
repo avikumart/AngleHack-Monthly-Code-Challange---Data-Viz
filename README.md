@@ -18,7 +18,7 @@ Lastly, I analyzed how number of students enrolled to these universities affect 
 
 In the given datasets, I choose to analyze past 5 years data (2019-2023) to know most recent trends in universities rankings. visualizing data from last 5 years caters to recency and relavancy for the viewers to see how unviersites are scoring across various measures. I choose top 10 universities to see how they are scoring across teaching, research, citations, industry incomes and international outlook. along with that, it's relations with number of students enrolled in respective universities. I used line chart for trend visualization, radar chart to visulize scores of each university, bar chart to compare number of students enrolled in each university and bubble chart to find relation between teaching and research with number of students enrolled.
 
-## Liabraies and tools used:
+## Libraries and tools used:
 
 1. Pandas
 2. matplotlib
